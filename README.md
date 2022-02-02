@@ -16,3 +16,6 @@ Week 2
 - [기본 과제 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W2/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_%EA%B8%B0%EB%B3%B82_Custom_Dataset_%26_Custom_DataLoader.ipynb): PyTorch Dataset, DataLoader.
 - 심화 과제 1 정리
 - [iterable (object) and iterator](https://github.com/star-bits/boostcampAI/blob/main/W2/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_iterable_iterator.ipynb)
+- [generator](https://github.com/star-bits/boostcampAI/blob/main/W2/%EC%A0%95%EB%A6%AC_generator.ipynb)
+
+
