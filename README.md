@@ -22,4 +22,4 @@ Week 2
 
 Week 3
 
-- [Matplotlib intro](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_Matplotlib.ipynb)
+- [matplotlib intro](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_matplotlib.ipynb)
