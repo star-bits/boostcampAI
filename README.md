@@ -18,4 +18,8 @@ Week 2
 - [iterable (object) and iterator](https://github.com/star-bits/boostcampAI/blob/main/W2/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_iterable_iterator.ipynb)
 - [generator](https://github.com/star-bits/boostcampAI/blob/main/W2/%EC%A0%95%EB%A6%AC_generator.ipynb)
 
+---
 
+Week 3
+
+- [Matplotlib intro](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_Matplotlib.ipynb)
