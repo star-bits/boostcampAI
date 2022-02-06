@@ -27,6 +27,6 @@ Week 3
 
 - [matplotlib intro](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_matplotlib.ipynb): fig, ax = plt.subplots(m, n); ax[i].plot(x, y); plt.show()
 - [mpl: bar, line, scatter](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_bar_line_scatter.ipynb)
-- mpl: text, color, facet, misc.
+- [mpl: text, color, facet, misc.](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_text_color_facet_misc.ipynb)
 - seaborn
 
