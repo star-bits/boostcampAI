@@ -38,4 +38,10 @@ Week 4
 - DL Basics: CNN
 - DL Basics: RNN
 - DL Basics: Generative model
+- 기본 과제 1 정리
+- 기본 과제 2 정리
+- 기본 과제 3 정리
+- 기본 과제 4 정리
+- 심화 과제 1 정리
+- 심화 과제 2 정리
 
