@@ -30,3 +30,12 @@ Week 3
 - [mpl: text, color, facet, misc.](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_text_color_facet_misc.ipynb)
 - seaborn
 
+---
+
+Week 4
+
+- [DL Basics: Optimization, Adam](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_DL_Basics_Optimization_Adam.ipynb): cross validation (k-fold validation), bootstrapping/bagging/boosting, momentum, RMSprop, Adam, parameter norm penalty (weight decay) 
+- DL Basics: CNN
+- DL Basics: RNN
+- DL Basics: Generative model
+
