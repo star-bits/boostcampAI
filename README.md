@@ -35,10 +35,10 @@ Week 3
 
 Week 4
 
-- [DL Basics: Optimization - Adam](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_DL_Basics_Optimization_Adam.ipynb): cross validation (k-fold validation), bootstrapping/bagging/boosting, momentum, RMSprop, Adam, parameter norm penalty (weight decay) 
-- [DL Basics: CNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_CNN.ipynb): AlexNet - ReLU solves the vanishing gradient problem, VGGNet - smaller kernel size (3x3), GoogLeNet - 1x1 convolution the channel-wise dimension reducer, ResNet - skip connection (addition), DenseNet - skip connection (concatenation) 
-- DL Basics: RNN
-- DL Basics: Generative model
+- [Optimization - Adam](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_Optimization_Adam.ipynb): cross validation (k-fold validation), bootstrapping/bagging/boosting, momentum, RMSprop, Adam, parameter norm penalty (weight decay) 
+- [CNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_CNN.ipynb): AlexNet - ReLU solves the vanishing gradient problem, VGGNet - smaller kernel size (3x3), GoogLeNet - 1x1 convolution the channel-wise dimension reducer, ResNet - skip connection (addition), DenseNet - skip connection (concatenation) 
+- RNN and Transformer
+- Generative model
 - 기본 과제 1 정리
 - 기본 과제 2 정리
 - 기본 과제 3 정리
