@@ -39,11 +39,11 @@ Week 4
 - [CNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_CNN.ipynb): AlexNet - ReLU solves the vanishing gradient problem, VGGNet - smaller kernel size (3x3), GoogLeNet - 1x1 convolution the channel-wise dimension reducer, ResNet - skip connection (addition), DenseNet - skip connection (concatenation) 
 - [RNN and Transformer](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_RNN_Transformer.ipynb): vanishing/exploding gradient in RNN caused by sigmoid and ReLU, LSTM, transformer, Scaled Dot-Product Attention: attention rate = softmax(dot(q,k)/scale) = weight of v, Multi-Head Attention, positional encoding
 - Generative model
-- 기본 과제 1 정리
-- 기본 과제 2 정리
-- 기본 과제 3 정리
-- 기본 과제 4 정리
-- 기본 과제 5 정리
-- 심화 과제 1 정리
-- 심화 과제 2 정리
+- 기본 과제 1 정리: MLP
+- 기본 과제 2 정리: Optimization
+- 기본 과제 3 정리: CNN
+- 기본 과제 4 정리: LSTM
+- 기본 과제 5 정리: SDPA, MHA
+- 심화 과제 1 정리: ViT
+- 심화 과제 2 정리: AAE
 
