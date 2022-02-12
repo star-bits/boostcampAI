@@ -9,6 +9,9 @@ Week 1
 - [Python stuff](https://github.com/star-bits/boostcampAI/blob/main/W1/%EC%A0%95%EB%A6%AC_Python_stuff.ipynb): shell command, conda, asterisk stuff(variable-length arguments, kwargs, unpacking), OOP, read(), directory stuff, pickle, csv, html parsing, xml, json
 - numpy and pandas
 - GD, probability, inference
+- 심화 과제 1 정리
+- 심화 과제 2 정리
+- 심화 과제 3 정리
 
 ---
 
