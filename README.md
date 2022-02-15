@@ -45,6 +45,7 @@ Week 4
 - [RNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_RNN.ipynb): vanishing/exploding gradient in RNN caused by sigmoid and ReLU, LSTM
 - Transformer
 - Generative model
+- ViT
 - 기본 과제 1 정리: MLP
 - 기본 과제 2 정리: Optimization
 - 기본 과제 3 정리: CNN
