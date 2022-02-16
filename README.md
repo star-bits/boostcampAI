@@ -58,3 +58,7 @@ Week 4
 
 Week 5
 
+- [Shell commands](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_shell_commands.ipynb)
+- venv
+- os cwd
+
