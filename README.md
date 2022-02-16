@@ -6,7 +6,7 @@
 
 Week 1
 
-- [Python stuff](https://github.com/star-bits/boostcampAI/blob/main/W1/%EC%A0%95%EB%A6%AC_Python_stuff.ipynb): shell command, conda, asterisk stuff(variable-length arguments, kwargs, unpacking), OOP, read(), directory stuff, pickle, csv, html parsing, xml, json
+- [python stuff](https://github.com/star-bits/boostcampAI/blob/main/W1/%EC%A0%95%EB%A6%AC_python_stuff.ipynb): list comprehension, asterisk stuff(variable-length arguments, kwargs, unpacking), OOP, read(), directory stuff, pickle, csv, html parsing, xml, json
 - numpy and pandas
 - GD, probability, inference
 - 심화 과제 1 정리
@@ -58,7 +58,7 @@ Week 4
 
 Week 5
 
-- [Shell commands](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_shell_commands.ipynb)
+- [shell commands](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_shell_commands.ipynb)
 - [venv, conda](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_venv_conda.ipynb)
 - [os cwd](https://github.com/star-bits/boostcampAI/blob/main/W5/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_os_cwd.ipynb)
 
