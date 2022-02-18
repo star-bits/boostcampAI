@@ -62,4 +62,5 @@ Week 5
 - [venv, conda](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_venv_conda.ipynb)
 - [os cwd](https://github.com/star-bits/boostcampAI/blob/main/W5/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_os_cwd.ipynb)
 - [docker](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_docker.ipynb)
+- [mlflow](https://github.com/star-bits/boostcampAI/blob/main/W5/%EC%A0%95%EB%A6%AC_mlflow.ipynb)
 
