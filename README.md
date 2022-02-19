@@ -48,7 +48,7 @@ Week 4
 - ViT
 - [기본 과제 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB1_MLP.ipynb): MLP ⭐
 - [기본 과제 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_%EA%B8%B0%EB%B3%B82_Optimization.ipynb): Optimization
-- 기본 과제 3 정리: CNN
+- [기본 과제 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_%EA%B8%B0%EB%B3%B83_CNN.ipynb): CNN ⭐
 - 기본 과제 4 정리: LSTM
 - 기본 과제 5 정리: SDPA, MHA
 - 심화 과제 1 정리: ViT
