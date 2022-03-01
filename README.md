@@ -70,3 +70,12 @@ Week 5
 ---
 
 Week 6 -- Week 7
+
+- 미션 2 정리: EDA
+- 미션 3 정리: Augmentation
+- 미션 4 정리: DataGeneration
+- 미션 5 정리: Model
+- 미션 6 정리: Pretrained model
+- 미션 7-8 정리: Training, Inference
+- 미션 9 정리: Ensemble
+- 미션 10 정리: Experiment toolkit
