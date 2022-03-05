@@ -79,3 +79,9 @@ Week 6-7
 - 미션 7-8 정리: Training, Inference
 - 미션 9 정리: Ensemble
 - 미션 10 정리: Experiment toolkit
+
+---
+
+Week 8-9
+
+
