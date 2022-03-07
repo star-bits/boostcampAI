@@ -9,9 +9,9 @@ Week 1
 - [python stuff](https://github.com/star-bits/boostcampAI/blob/main/W1/%EC%A0%95%EB%A6%AC_python_stuff.ipynb): list comprehension, lambda, map, asterisk stuff(variable-length arguments, kwargs, unpacking), OOP, read(), pickle, csv, html parsing, xml, json
 - numpy and pandas
 - GD, probability, inference
-- 심화 과제 1 정리
-- 심화 과제 2 정리
-- 심화 과제 3 정리
+- 심화 과제 1 정리: Gradient Descent
+- 심화 과제 2 정리: Backpropagation
+- 심화 과제 3 정리: Maximum Likelihood Estimation
 
 ---
 
