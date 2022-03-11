@@ -69,7 +69,7 @@ Week 5
 
 ---
 
-Week 6-7 ⭐
+Week 6-7
 
 - 미션 2 정리: EDA
 - 미션 3 정리: Augmentation
