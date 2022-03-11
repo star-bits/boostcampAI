@@ -84,7 +84,7 @@ Week 6-7
 
 Week 8-9
 
-- 기본 과제 1 정리: resnet34 implementation from scratch: ConvBlock(conv+bn+relu) -> ResBlock(ConvBlock+ConvBlock+residual) -> ResNet
+- 기본 과제 1 정리: resnet34 implementation from scratch: ConvBlock(nn.Sequential(layers[nn.Conv2d, nn.BatchNorm2d, nn.ReLU])) -> ResBlock(nn.Sequential(layers[ConvBlock, ConvBlock, residual])) -> ResNet
 - 기본 과제 2 정리: 
 - 기본 과제 3 정리: 
 - 심화 과제 1 정리: 
