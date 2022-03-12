@@ -84,7 +84,7 @@ Week 6-7
 
 Week 8-9
 
-- [기본 과제 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_Resnet_Implementation_Image_Classification.ipynb): resnet34 implementation from scratch: ConvBlock(nn.Sequential(\*layers[nn.Conv2d, nn.BatchNorm2d, nn.ReLU])) -> ResBlock(nn.Sequential(\*layers[ConvBlock, ConvBlock, residual])) -> ResNet ⭐
-- [기본 과제 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_Training_with_Data_Augmentation.ipynb): transforms.Compose([GaussianBlur, RandomCrop, ToTensor, Resize, Normalize]), Channel order: {cv2: BGR, torch: RGB}, Dimension: {cv2: (height, width, channel), torch conv2d: (batch_size, channel, height, width)} ⭐
-- [기본 과제 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_Classification_to_Segmentation.ipynb): vgg11 implementation from scratch, semantic segmentation using vgg11 modified as FCN by replacing fc layer with 1x1 conv layer ⭐
+- [기본 과제 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_resnet34_Implementation.ipynb): resnet34 implementation from scratch: ConvBlock(nn.Sequential(\*layers[nn.Conv2d, nn.BatchNorm2d, nn.ReLU])) -> ResBlock(nn.Sequential(\*layers[ConvBlock, ConvBlock, residual])) -> ResNet ⭐
+- [기본 과제 2 정리](): transforms.Compose([GaussianBlur, RandomCrop, ToTensor, Resize, Normalize]), Channel order: {cv2: BGR, torch: RGB}, Dimension: {cv2: (height, width, channel), torch conv2d: (batch_size, channel, height, width)} ⭐
+- [기본 과제 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_vgg11_Segmentation.ipynb): vgg11 implementation from scratch, semantic segmentation using vgg11 modified as FCN by replacing fc layer with 1x1 conv layer ⭐
 - 심화 과제 1 정리: 
