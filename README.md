@@ -11,7 +11,7 @@ Week 1
 - GD, Probability, Inference
 - 심화 과제 1 정리: GD
 - 심화 과제 2 정리: Backprop
-- 심화 과제 3 정리: MLE
+- 심화 과제 3 정리: Maximum Liklihood Estimation
 
 ---
 
