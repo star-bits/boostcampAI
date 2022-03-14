@@ -91,4 +91,4 @@ Week 8-9
 - 기본 과제 4 정리:
 - 기본 과제 5 정리:
 - 심화 과제 2 정리:
-- [More AutoGrad stuff]()
+- [More AutoGrad stuff](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_More_AutoGrad.ipynb)
