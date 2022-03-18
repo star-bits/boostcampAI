@@ -71,14 +71,14 @@ Week 5
 
 Week 6-7
 
-- 미션 2 정리: EDA
-- 미션 3 정리: Augmentation
-- 미션 4 정리: DataGeneration
-- 미션 5 정리: Model
-- 미션 6 정리: Pretrained model
-- 미션 7-8 정리: Training, Inference
+- [미션 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%982_EDA.ipynb): EDA ⭐
+- [미션 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%983_Augmentation.ipynb): Augmentation ⭐
+- [미션 4 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%984_Data_Generation.ipynb): Data Generation ⭐
+- [미션 5 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%985_Model.ipynb): Model ⭐
+- [미션 6 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%986_Pretrained.ipynb): Pretrained model ⭐
+- [미션 7-8 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_%E1%84%86%E1%85%B5%E1%84%89%E1%85%A7%E1%86%AB7-8_Loss_Optimizer.ipynb): Loss, Optimizer ⭐
 - 미션 9 정리: Ensemble
-- 미션 10 정리: Experiment toolkit
+- 미션 10 정리: tensorboard, wandb
 
 ---
 
