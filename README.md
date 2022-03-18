@@ -46,8 +46,7 @@ Week 4
 - [Optimization - Adam](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_Optimization_Adam.ipynb): cross validation (k-fold validation), bootstrapping/bagging/boosting, momentum - directions with intertia, RMSprop - adaptive learning rate, Adam, parameter norm penalty (weight decay) 
 - [CNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_CNN.ipynb): AlexNet - ReLU solves the vanishing gradient problem, VGGNet - smaller kernel size (3x3), GoogLeNet - 1x1 convolution the channel-wise dimension reducer, ResNet - skip connection (addition), DenseNet - skip connection (concatenation) 
 - [RNN](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_RNN.ipynb): vanishing/exploding gradient in RNN caused by sigmoid and ReLU, LSTM
-- Transformer
-- ViT
+- Transformer, ViT
 - Generative model
 - [기본 과제 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W4/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_%E1%84%80%E1%85%B5%E1%84%87%E1%85%A9%E1%86%AB1_MLP.ipynb): MLP ⭐
 - [기본 과제 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W4/%EC%A0%95%EB%A6%AC_%EA%B8%B0%EB%B3%B82_Optimization.ipynb): Optimization
@@ -91,4 +90,10 @@ Week 8-9
 - 기본 과제 4 정리:
 - 기본 과제 5 정리:
 - 심화 과제 2 정리:
+- 심화 과제 3 정리:
 - [More AutoGrad stuff](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_More_AutoGrad.ipynb)
+
+---
+
+Week 10-12
+
