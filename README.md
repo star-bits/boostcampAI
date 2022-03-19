@@ -89,7 +89,7 @@ Week 8-9
 - [심화 과제 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_CNN_Visualization.ipynb): visualizing conv1 filters, visualizing model activations using forward hook, visualizing saliency map (gradient_logit/gradient_image), visualizing Grad-CAM ⭐
 - [기본 과제 4 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_CGAN.ipynb): CGAN - G(concat(emb(z), emb(y))), D(concat(emb(x), emb(y))) ⭐
 - 기본 과제 5 정리: Multi-modal
-- 심화 과제 2 정리: Pose estimation
+- 심화 과제 2 정리:
 - 심화 과제 3 정리:
 - [More AutoGrad stuff](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_More_AutoGrad.ipynb)
 
