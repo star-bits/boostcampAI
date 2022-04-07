@@ -110,6 +110,8 @@ Week 10-12: Object Detection
 - 기본 미션 5 정리
 - 심화 미션 5 정리
 - [기본 미션 7 정리](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_WBF_Ensemble.ipynb): Weighted Boxes Fusion ensemble
+- Faster R-CNN with Swin-L backbone: [config.py], [train.ipynb], [infer.ipynb] 
+- UniverseNet with Swin-L backbone: [config.py], [train.ipynb], [infer.ipynb]
 
 ---
 
