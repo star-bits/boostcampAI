@@ -68,7 +68,7 @@ Week 5
 
 ---
 
-Week 6-7
+Week 6-7: Image Classification
 
 - [미션 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%982_EDA.ipynb): EDA ⭐
 - [미션 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W6-7/%EC%A0%95%EB%A6%AC_%EB%AF%B8%EC%85%983_Augmentation.ipynb): Augmentation ⭐
@@ -95,7 +95,7 @@ Week 8-9
 
 ---
 
-Week 10-12
+Week 10-12: Object Detection
 
 - [Two-Stage Detectors](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_2_Stage_Detectors.ipynb): R-CNN, SPPNet (ROI projection: projection of selective search result onto a feature map, Spatial Pyramid Pooling: n by n grid pooling - fixed fc layer size) solves multiple CNN problem and image warping problem, Fast R-CNN (multi-task loss: classification loss + bounding box regression loss), Faster R-CNN (Region Proposal Network: apply anchor boxes on feature map cells)
 - [Feature Pyramid Network](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_Feature_Pyramid_Network.ipynb): FPN (top-down pathway: mixing low level and high level feature maps), PANet (bottom-up path augmentation, adaptive feature pooling: ROI from all stages), Recursive FPN, Bi-directional FPN, NAS(Neural Architecture Search)FPN 
@@ -110,3 +110,15 @@ Week 10-12
 - 기본 미션 5 정리
 - 심화 미션 5 정리
 - [기본 미션 7 정리](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_WBF_Ensemble.ipynb): Weighted Boxes Fusion ensemble
+
+---
+
+Week 13-14
+
+---
+
+Week 15-17: Semantic Segmentation
+
+---
+
+Week 18-20: Final Project
