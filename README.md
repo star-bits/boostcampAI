@@ -102,7 +102,7 @@ Week 10-12: Object Detection
 - [One-Stage Detectors](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_1_Stage_Detectors.ipynb): YOLO (loss: localization loss + confidence loss + classification loss), SSD(multi-scale feature maps, no fc layer, has anchor box), RetinaNet(background class imbalance - solved by focal loss)
 - [More on Two-Stage Detectors](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_More_2_Stage_Detectors.ipynb): Faster R-CNN (image -> through ConvNet -> feature map -> through RPN -> ROI; (ROI + feature map) -> through ROI pooling -> through (classification head + regressor head) -> output) has 3 networks: (ConvNet, RPN, cls+reg head), RPN: (9 anchor boxes, 0 or 1 classification, NMS), Cascade R-CNN, Deformable convolution, Transformer (Q, K, V created by W_Q, W_K, W_V; Attention map from Q, K), Swin ⭐
 - [More on One-Stage Detectors](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%EC%A0%95%EB%A6%AC_More_1_Stage_Detectors.ipynb): Two-stage detectors: prediction doesn't happen at every pixel (of a final feature map), proposals from RPN gets projected onto a feature map, and after going through ROI pooling, output gets delivered to cls head and reg head; One-stage detectors: prediction gets made from every pixel (of a final feature map), doesn't have RPN - detector itself is an alteration of RPN, each pixel gets anchor boxes and classification and bbox regression comes right after ⭐
-- 기본 미션 1 정리
+- [기본 미션 1 정리](https://github.com/star-bits/boostcampAI/blob/main/W10-12/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_Metric.ipynb): bbox mAP
 - 심화 미션 1 정리
 - 기본 미션 2 정리
 - 기본 미션 4 정리
