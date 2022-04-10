@@ -90,7 +90,7 @@ Week 8-9
 - [기본 과제 4 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_CGAN.ipynb): CGAN - G(concat(emb(z), emb(y))), D(concat(emb(x), emb(y))) ⭐
 - [기본 과제 5 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_Multi-modal.ipynb): Multi-modal
 - [심화 과제 2 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_Hourglass_Network.ipynb): Hourglass network, torchsummary summary
-- 심화 과제 3 정리
+- [심화 과제 3 정리](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_Depth_map.ipynb): Depth map
 - [More AutoGrad stuff](https://github.com/star-bits/boostcampAI/blob/main/W8-9/%EC%A0%95%EB%A6%AC_More_AutoGrad.ipynb)
 
 ---
