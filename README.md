@@ -37,7 +37,7 @@ Week 3
 - [mpl: missingno, squarify, pywaffle, matplotlib_venn](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_missing_treemap_waffle_venn.ipynb): missing data, treemap (e.g. finviz), waffle chart, venn diagram
 - [plotly express](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_plotly_express.ipynb)
 - [mpl: custom theme](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_custom_theme.ipynb)
-- mpl: visualization techniques
+- visualization techniques
 
 ---
 
