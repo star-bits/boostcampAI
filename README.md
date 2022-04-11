@@ -35,8 +35,8 @@ Week 3
 - [mpl: seaborn](https://github.com/star-bits/boostcampAI/blob/main/W3/%E1%84%8C%E1%85%A5%E1%86%BC%E1%84%85%E1%85%B5_mpl_seaborn.ipynb)
 - [mpl: polar, pie](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_polar_pie.ipynb)
 - [mpl: missingno, squarify, pywaffle, matplotlib_venn](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_missing_treemap_waffle_venn.ipynb): missing data, treemap (e.g. finviz), waffle chart, venn diagram
-- plotly express
-- mpl: custom theme
+- [plotly express](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_plotly_express.ipynb)
+- [mpl: custom theme](https://github.com/star-bits/boostcampAI/blob/main/W3/%EC%A0%95%EB%A6%AC_mpl_custom_theme.ipynb)
 - mpl: visualization techniques
 
 ---
