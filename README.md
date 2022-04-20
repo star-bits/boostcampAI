@@ -116,7 +116,7 @@ Week 10-12: Object Detection
 
 ---
 
-Week 13-14
+Week 13-14: Text Detection
 
 ---
 
