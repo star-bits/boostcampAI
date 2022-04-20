@@ -124,7 +124,7 @@ Week 13-14: Text Detection
 - [mlt2ufo_ICDAR19raw2LKJ.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/convert_mlt_ICDAR19raw2LKJ.py)
 - [im_mode_test.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/im_mode_test.py)
 - [dataset.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/dataset_multiple.py) to check the len of dataset
-- [train.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/train_multiple.py)
+- [train.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/train_multiple.py) (lr_scheduler: MultiStepLR | CosineAnnealingLR | CosineAnnealingWarmUpRestarts)
 
 ---
 
