@@ -118,6 +118,14 @@ Week 10-12: Object Detection
 
 Week 13-14: Text Detection
 
+- [download_ICDAR17.sh](https://github.com/star-bits/boostcampAI/blob/main/W13-14/download_ICDAR17.sh)
+- [add_tr_va.sh](https://github.com/star-bits/boostcampAI/blob/main/W13-14/add_tr_va.sh) to rename images
+- [mlt2ufo_ICDAR17raw2LKJ.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/convert_mlt_ICDAR17raw2LKJ.py)
+- [mlt2ufo_ICDAR19raw2LKJ.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/convert_mlt_ICDAR19raw2LKJ.py)
+- [im_mode_test.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/im_mode_test.py)
+- [dataset.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/dataset_multiple.py) to check the len of dataset
+- [train.py](https://github.com/star-bits/boostcampAI/blob/main/W13-14/train_multiple.py)
+
 ---
 
 Week 15-17: Semantic Segmentation
