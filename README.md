@@ -134,7 +134,7 @@ Week 13-14: Text Detection
 Week 15-17: Semantic Segmentation
 
 - [Entire Semantic Segmentation Process](https://github.com/star-bits/boostcampAI/blob/main/W15-17/%EC%A0%95%EB%A6%AC_Segmentation_Baseline.ipynb)
-- Semantic Segmentation Models
+- Semantic Segmentation Models: FCN-32s, FCN-16s, FCN-8s, DeconvNet, SegNet, DeepLabV1, DialatedNet, DeepLabV2-VGG16, DeepLabV2-ResNet101, DeepLabV3-ResNet101, DeepLabV3Plus-Xception, UNet, UNet++
 - [UNet3Plus.py](https://github.com/star-bits/boostcampAI/blob/main/W15-17/UNet3Plus.py): UNet3+ from scratch
 - UNet3+ Implementation
 
