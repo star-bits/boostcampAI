@@ -133,6 +133,8 @@ Week 13-14: Text Detection
 
 Week 15-17: Semantic Segmentation
 
+- [Entire Semantic Segmentation Process](https://github.com/star-bits/boostcampAI/blob/main/W15-17/%EC%A0%95%EB%A6%AC_Segmentation_Baseline.ipynb)
+
 ---
 
 Week 18-20: Final Project
