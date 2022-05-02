@@ -135,7 +135,8 @@ Week 15-17: Semantic Segmentation
 
 - [Entire Semantic Segmentation Process](https://github.com/star-bits/boostcampAI/blob/main/W15-17/%EC%A0%95%EB%A6%AC_Segmentation_Baseline.ipynb)
 - Semantic Segmentation Models
-- Unet3+ Implementation from scratch
+- [UNet3Plus.py](https://github.com/star-bits/boostcampAI/blob/main/W15-17/UNet3Plus.py): UNet3+ from scratch
+- UNet3+ Implementation
 
 ---
 
