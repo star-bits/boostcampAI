@@ -140,4 +140,7 @@ Week 15-17: Semantic Segmentation
 
 ---
 
-Week 18-20: Final Project
+Week 18-22: Final Project
+
+- Face Detection
+  - Comparison:
