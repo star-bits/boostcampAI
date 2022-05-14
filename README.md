@@ -143,4 +143,8 @@ Week 15-17: Semantic Segmentation
 Week 18-22: Final Project
 
 - Face Detection
-  - Comparison:
+  - [Comparison: cv2.HaarCascade, dlib(SVM), MTCNN, cv2.dnn(SSD)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_1_pkgs.ipynb)
+  - [cv2.dnn(SDD)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_2_cv2.ipynb)
+  - [timelser/facenet(MTCNN)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_3_facenet.ipynb)
+  - [biubug6/RetinaFace](https://github.com/star-bits/Pytorch_Retinaface)
+  - [ternaus/RetinaFace](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_4_ternaus_retinaface.ipynb)
