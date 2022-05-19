@@ -144,7 +144,6 @@ Week 18-22: Final Project
 
 - 1
 - 2
-
 - Face Detection and Recognition
   - [Comparison: cv2.HaarCascade, dlib(SVM), mtcnn(MTCNN), cv2.dnn(SSD)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_1_pkgs.ipynb)
   - [cv2.dnn(SSD)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_2_cv2.ipynb)
