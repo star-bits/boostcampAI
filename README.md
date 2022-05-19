@@ -150,9 +150,7 @@ Week 18-22: Final Project
   - [timelser/facenet-pytorch(MTCNN)](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_3_facenet.ipynb)
   - [biubug6/Pytorch_Retinaface](https://github.com/star-bits/Pytorch_Retinaface)
   - [ternaus/retinaface](https://github.com/star-bits/boostcampAI/blob/main/W18-22/face_det_4_ternaus_retinaface.ipynb)
-
 - Object Detection
   - [mmdet install](https://github.com/star-bits/boostcampAI/blob/main/W18-22/mmdet_install.ipynb)
-
 - Pose Estimation
 
